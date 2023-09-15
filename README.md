@@ -1,6 +1,6 @@
 Thành viên nhóm
   + Mai Tuấn Mạnh - 2001202150
-  + Lâm Thành Đạt - 200120022
+  + Lâm Thành Đạt - 2001200227
    
 Các chức năng trong phần mềm
 Winform:
