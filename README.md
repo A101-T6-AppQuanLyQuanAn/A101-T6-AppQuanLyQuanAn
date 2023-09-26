@@ -1,8 +1,9 @@
-Thành viên nhóm
+>Thành viên nhóm
   + Mai Tuấn Mạnh - 2001202150
   + Lâm Thành Đạt - 2001200227
-***
+
 >Đặc tả quy trình nghiệp vụ ( Mạnh, Đạt )
+ 
 >Vẽ sơ đồ
 
 >Các chức năng trong phần mềm Winform:
@@ -12,5 +13,5 @@ Thành viên nhóm
  + Admin: Thêm, xóa, sửa bàn và món ăn trong CSDL ( Đạt )
  + Nhân viên: Oder món ăn ( Đạt )
    
->AI: 
-Thuật toán tính tiền tại bàn bằng hình ảnh món ( Mạnh, Đạt )
+>Chức năng sử dụng AI: 
+ + Thuật toán tính tiền tại bàn bằng hình ảnh món ( Mạnh, Đạt )
