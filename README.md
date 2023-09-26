@@ -4,10 +4,10 @@ Thành viên nhóm
    
 Các chức năng trong phần mềm
 Winform:
- + Thu ngân: Oder, thêm, sửa, xóa món ăn, thanh toán ( Manh )
- + Phân quyền ( Dat )
- + Server - Client ( Manh )
- + Admin: Thêm, xóa, sửa bàn và món ăn trong CSDL ( Dat )
- + Nhân viên: Oder món ăn ( Dat )
+ + Thu ngân: Oder, thêm, sửa, xóa món ăn, thanh toán ( Mạnh )
+ + Phân quyền ( Đạt )
+ + Server - Client ( Mạnh )
+ + Admin: Thêm, xóa, sửa bàn và món ăn trong CSDL ( Đạt )
+ + Nhân viên: Oder món ăn ( Đạt )
    
-AI: Thuật toán tính tiền tại bàn bằng hình ảnh món ( Manh, Dat )
+AI: Thuật toán tính tiền tại bàn bằng hình ảnh món ( Mạnh, Đạt )
