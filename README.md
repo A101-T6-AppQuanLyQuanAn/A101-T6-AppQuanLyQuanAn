@@ -10,7 +10,7 @@
  + Thu ngân: Oder, thêm, sửa, xóa món ăn, thanh toán ( Mạnh )
  + Phân quyền ( Đạt )
  + Server - Client ( Mạnh )
- + Admin: Thêm, xóa, sửa bàn và món ăn trong CSDL ( Đạt )
+ + Quản lý: Thêm, xóa, sửa bàn và món ăn trong CSDL ( Đạt )
  + Nhân viên: Oder món ăn ( Đạt )
    
 >Chức năng sử dụng AI: 
