@@ -12,6 +12,7 @@
  + Server - Client ( Mạnh )
  + Quản lý: Thêm, xóa, sửa bàn và món ăn trong CSDL ( Đạt )
  + Nhân viên: Oder món ăn ( Đạt )
+ + Thống kế doanh số bán hàng ( Đạt )
    
 >Chức năng sử dụng AI: 
  + Thuật toán tính tiền tại bàn bằng hình ảnh món ( Mạnh, Đạt )
