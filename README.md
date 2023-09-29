@@ -5,6 +5,7 @@
 >Đặc tả quy trình nghiệp vụ ( Mạnh, Đạt )
  
 >Sơ đồ
+ + Use case ( Mạnh )
 
 >Các chức năng trong phần mềm Winform:
  + Thu ngân: Oder, thêm, sửa, xóa món ăn, thanh toán ( Mạnh )
