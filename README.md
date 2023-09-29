@@ -8,7 +8,7 @@
 
 >Các chức năng trong phần mềm Winform:
  + Thu ngân: Oder, thêm, sửa, xóa món ăn, thanh toán ( Mạnh )
- + Phân quyền ( Đạt )
+ + Đăng nhập, đăng ký, phân quyền ( Đạt )
  + Server - Client ( Mạnh )
  + Quản lý: Thêm, xóa, sửa bàn và món ăn trong CSDL ( Đạt )
  + Nhân viên: Oder món ăn ( Đạt )
