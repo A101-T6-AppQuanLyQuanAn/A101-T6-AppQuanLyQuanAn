@@ -10,3 +10,6 @@ C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\DoA
 C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.pdb
 C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.frmLogin.resources
 C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.frmMain.resources
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\DoAn_PTPM\DoAn_PTPM\bin\Debug\DoAn_PTPM.exe.config
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.exe
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.pdb
