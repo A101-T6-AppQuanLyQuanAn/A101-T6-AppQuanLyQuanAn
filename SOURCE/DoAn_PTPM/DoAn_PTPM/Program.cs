@@ -16,7 +16,7 @@ namespace DoAn_PTPM
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMain());
+            Application.Run(new frMain());
         }
     }
 }
