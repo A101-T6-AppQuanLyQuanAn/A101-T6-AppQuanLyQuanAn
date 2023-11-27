@@ -16,5 +16,16 @@ namespace DoAn_PTPM
         {
             InitializeComponent();
         }
+
+        private void barButtonItem5_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            MessageBox.Show("Thông báo", "Thông báo");
+        }
+
+        private void ribbonPageGroup3_CaptionButtonClick(object sender, DevExpress.XtraBars.Ribbon.RibbonPageGroupEventArgs e)
+        {
+            MessageBox.Show("Thông báo", "Thông báo");
+
+        }
     }
 }
