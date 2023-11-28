@@ -24,3 +24,14 @@ C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOU
 C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.csprojResolveAssemblyReference.cache
 C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.frMain.resources
 C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.exe.licenses
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\bin\Debug\DoAn_PTPM.exe.config
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.exe
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.pdb
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\bin\Debug\DoAn_PTPM.exe
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\bin\Debug\DoAn_PTPM.pdb
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.csprojResolveAssemblyReference.cache
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.frMain.resources
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.frmLogin.resources
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.Properties.Resources.resources
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.csproj.GenerateResource.Cache
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.exe.licenses

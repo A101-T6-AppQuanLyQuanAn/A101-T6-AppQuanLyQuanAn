@@ -1,0 +1,6 @@
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DAL_BLL\bin\Debug\DAL_BLL.dll
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DAL_BLL\bin\Debug\DAL_BLL.pdb
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DAL_BLL\obj\Debug\DAL_BLL.csproj.AssemblyReference.cache
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DAL_BLL\obj\Debug\DAL_BLL.csproj.CoreCompileInputs.cache
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DAL_BLL\obj\Debug\DAL_BLL.dll
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DAL_BLL\obj\Debug\DAL_BLL.pdb
