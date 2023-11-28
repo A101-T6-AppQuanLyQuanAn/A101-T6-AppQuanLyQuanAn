@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Component
 {
-    public partial class TextBox_KhongNhanKyTuDacBiet : UserControl
+    public partial class TextBox_KhongNhanKyTuDacBiet : TextBox
     {
         ErrorProvider ep;
         public TextBox_KhongNhanKyTuDacBiet()

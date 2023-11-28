@@ -70,7 +70,7 @@
             this.barButtonItem6,
             this.barButtonItem7});
             this.ribbon.Location = new System.Drawing.Point(0, 0);
-            this.ribbon.MaxItemId = 13;
+            this.ribbon.MaxItemId = 14;
             this.ribbon.Name = "ribbon";
             this.ribbon.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
             this.uan,
@@ -124,7 +124,7 @@
             // 
             // barButtonItem5
             // 
-            this.barButtonItem5.Caption = "Danh sách nhân viên";
+            this.barButtonItem5.Caption = "Quản lý tài khoản";
             this.barButtonItem5.Id = 8;
             this.barButtonItem5.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("barButtonItem5.ImageOptions.Image")));
             this.barButtonItem5.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem5.ImageOptions.LargeImage")));

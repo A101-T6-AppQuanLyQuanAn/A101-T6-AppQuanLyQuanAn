@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>DAL_BLL</RootNamespace>
     <AssemblyName>DAL_BLL</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <TargetFrameworkProfile />
@@ -43,9 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BLL_DAL_NguoiDungNhomNguoiDung.cs" />
+    <Compile Include="BLL_DAL_NhanVien.cs" />
+    <Compile Include="BLL_DAL_NhomNguoiDung.cs" />
     <Compile Include="Class1.cs" />
-    <Compile Include="DAL_BLL_NHANVIEN.cs" />
     <Compile Include="DAL_BLL_QLBAN.cs" />
+    <Compile Include="DAL_BLL_QL_NguoiDung.cs" />
     <Compile Include="DAL_BLL_TAIKHOAN.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
@@ -69,12 +72,14 @@
       <LastGenOutput>QL_QuanAn.designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="QL_QuanAn.dbml.layout">
-      <DependentUpon>QL_QuanAn.dbml</DependentUpon>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QL_QuanAn.dbml.layout">
+      <DependentUpon>QL_QuanAn.dbml</DependentUpon>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

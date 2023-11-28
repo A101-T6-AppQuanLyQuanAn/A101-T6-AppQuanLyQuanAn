@@ -24,11 +24,13 @@ namespace Component
             {
                 // Nếu là các ký tự được phép, cho phép nhập
                 e.Handled = false;
+                return;
             }
             else
             {
                 // Nếu không phải là các ký tự được phép, không cho phép nhập
                 e.Handled = true;
+                return;
             }
         }
     }
