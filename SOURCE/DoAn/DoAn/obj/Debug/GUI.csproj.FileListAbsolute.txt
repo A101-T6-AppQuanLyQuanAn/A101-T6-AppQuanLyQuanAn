@@ -47,3 +47,21 @@ C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DAL_B
 C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DAL_BLL.pdb
 C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.frm_DatMonMangDi.resources
 C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.frm_DatMonTaiBan.resources
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DAL_BLL.dll
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DAL_BLL.pdb
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.frm_Main.resources
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.frm_DatMonMangDi.resources
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.frm_DatMonTaiBan.resources
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.frm_QL_Ban.resources
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.frm_QL_NV.resources
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\Component.dll
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\Component.pdb

@@ -30,12 +30,12 @@
         {
             this.SuspendLayout();
             // 
-            // frm_Main_DatMonTaiBan
+            // frm_DatMonTaiBan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(596, 291);
-            this.Name = "frm_Main_DatMonTaiBan";
+            this.ClientSize = new System.Drawing.Size(968, 475);
+            this.Name = "frm_DatMonTaiBan";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Danh sách bàn";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;

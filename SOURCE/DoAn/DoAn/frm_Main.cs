@@ -51,5 +51,15 @@ namespace DoAn
         {
             openFormChildren(typeof(frm_DatMonTaiBan)); 
         }
+
+        private void barButtonItem2_ItemClick_1(object sender, ItemClickEventArgs e)
+        {
+            openFormChildren(typeof(frm_QL_Ban));
+        }
+
+        private void barButtonItem5_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            openFormChildren(typeof(frm_QL_NV));
+        }
     }
 }

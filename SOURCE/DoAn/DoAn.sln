@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.7.34221.43
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "DoAn\GUI.csproj", "{2C07D199-141D-4B28-932B-2B7C419EB982}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_BLL", "DAL_BLL\DAL_BLL.csproj", "{E7E95FA5-35F8-48F7-8B9D-634FF4D55354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Component", "Component\Component.csproj", "{7432FA3A-8493-47F8-A092-BDEA55955BAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E7E95FA5-35F8-48F7-8B9D-634FF4D55354}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7E95FA5-35F8-48F7-8B9D-634FF4D55354}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7E95FA5-35F8-48F7-8B9D-634FF4D55354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7432FA3A-8493-47F8-A092-BDEA55955BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7432FA3A-8493-47F8-A092-BDEA55955BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7432FA3A-8493-47F8-A092-BDEA55955BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7432FA3A-8493-47F8-A092-BDEA55955BAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

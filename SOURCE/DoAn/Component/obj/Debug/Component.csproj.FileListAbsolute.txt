@@ -1,0 +1,4 @@
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\Component\bin\Debug\Component.dll
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\Component\bin\Debug\Component.pdb
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\Component\obj\Debug\Component.dll
+C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\Component\obj\Debug\Component.pdb
