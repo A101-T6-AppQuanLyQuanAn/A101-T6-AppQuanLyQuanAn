@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
     <Compile Include="BLL_DAL_NguoiDungNhomNguoiDung.cs" />
     <Compile Include="BLL_DAL_NhanVien.cs" />
     <Compile Include="BLL_DAL_NhomNguoiDung.cs" />
@@ -50,6 +51,8 @@
     <Compile Include="DAL_BLL_QLBAN.cs" />
     <Compile Include="DAL_BLL_QL_NguoiDung.cs" />
     <Compile Include="DAL_BLL_TAIKHOAN.cs" />
+    <Compile Include="DAL_BLL_QL_LoaiMon.cs" />
+    <Compile Include="DAL_BLL_QL_Mon.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>

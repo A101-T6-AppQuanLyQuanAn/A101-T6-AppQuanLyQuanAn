@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< Updated upstream
             this.components = new System.ComponentModel.Container();
             this.barManager1 = new DevExpress.XtraBars.BarManager(this.components);
             this.bar2 = new DevExpress.XtraBars.Bar();
@@ -200,10 +201,15 @@
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph)});
             this.btnxoa.Name = "btnxoa";
             // 
+=======
+            this.SuspendLayout();
+            // 
+>>>>>>> Stashed changes
             // frm_QL_Ban
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< Updated upstream
             this.ClientSize = new System.Drawing.Size(1311, 638);
             this.Controls.Add(this.gird_Ban);
             this.Controls.Add(this.barDockControlLeft);
@@ -220,6 +226,12 @@
             ((System.ComponentModel.ISupportInitialize)(this.btnxoa)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
+=======
+            this.ClientSize = new System.Drawing.Size(806, 428);
+            this.Name = "frm_QL_Ban";
+            this.Text = "frm_QL_Ban";
+            this.ResumeLayout(false);
+>>>>>>> Stashed changes
 
         }
 

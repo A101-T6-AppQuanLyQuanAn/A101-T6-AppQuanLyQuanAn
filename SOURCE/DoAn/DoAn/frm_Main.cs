@@ -52,6 +52,7 @@ namespace DoAn
             openFormChildren(typeof(frm_DatMonTaiBan)); 
         }
 
+<<<<<<< Updated upstream
         private void barButtonItem2_ItemClick_1(object sender, ItemClickEventArgs e)
         {
             openFormChildren(typeof(frm_QL_Ban));
@@ -60,6 +61,16 @@ namespace DoAn
         private void barButtonItem5_ItemClick(object sender, ItemClickEventArgs e)
         {
             openFormChildren(typeof(frm_QL_NV));
+=======
+        private void barButtonItem3_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            openFormChildren(typeof(frm_QL_LoaiMon));
+        }
+
+        private void an_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            openFormChildren(typeof(frm_QL_Mon));
+>>>>>>> Stashed changes
         }
     }
 }

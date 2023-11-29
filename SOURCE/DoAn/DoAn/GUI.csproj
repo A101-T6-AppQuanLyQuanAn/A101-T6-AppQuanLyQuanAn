@@ -132,8 +132,16 @@
     <EmbeddedResource Include="frm_QL_Ban.resx">
       <DependentUpon>frm_QL_Ban.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< Updated upstream
     <EmbeddedResource Include="frm_QL_NV.resx">
       <DependentUpon>frm_QL_NV.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="frm_QL_LoaiMon.resx">
+      <DependentUpon>frm_QL_LoaiMon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QL_Mon.resx">
+      <DependentUpon>frm_QL_Mon.cs</DependentUpon>
+>>>>>>> Stashed changes
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -162,6 +170,9 @@
       <Project>{7432FA3A-8493-47F8-A092-BDEA55955BAA}</Project>
       <Name>Component</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

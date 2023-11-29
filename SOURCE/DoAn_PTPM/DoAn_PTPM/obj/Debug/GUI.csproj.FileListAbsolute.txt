@@ -1,3 +1,0 @@
-C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\bin\Debug\DoAn_PTPM.exe.config
-C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.exe
-C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn_PTPM\DoAn_PTPM\obj\Debug\DoAn_PTPM.pdb

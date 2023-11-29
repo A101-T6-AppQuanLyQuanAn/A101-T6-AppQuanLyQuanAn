@@ -44,9 +44,9 @@ C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DevEx
 C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
 C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DevExpress.Office.v23.1.Core.xml
 C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DAL_BLL.dll
-C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DAL_BLL.pdb
 C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.frm_DatMonMangDi.resources
 C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.frm_DatMonTaiBan.resources
+<<<<<<< Updated upstream
 C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DoAn.exe.config
 C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.exe
 C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.pdb
@@ -65,3 +65,10 @@ C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOU
 C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.frm_QL_NV.resources
 C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\Component.dll
 C:\FileNayChuBaiTap\PhatTrienPhanMemUngDungThongMinh\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\Component.pdb
+=======
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.frm_QL_Ban.resources
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.frm_QL_LoaiMon.resources
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\obj\Debug\DoAn.frm_QL_Mon.resources
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DAL_BLL.pdb
+C:\Learning\Git Storage\A101-T6-AppQuanLyQuanAn\SOURCE\DoAn\DoAn\bin\Debug\DAL_BLL.dll.config
+>>>>>>> Stashed changes

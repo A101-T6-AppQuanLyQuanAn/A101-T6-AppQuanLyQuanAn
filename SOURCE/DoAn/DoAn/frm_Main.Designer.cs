@@ -104,6 +104,10 @@
             this.an.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("an.ImageOptions.Image")));
             this.an.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("an.ImageOptions.LargeImage")));
             this.an.Name = "an";
+<<<<<<< Updated upstream
+=======
+            this.an.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.an_ItemClick);
+>>>>>>> Stashed changes
             // 
             // barButtonItem2
             // 
@@ -112,7 +116,10 @@
             this.barButtonItem2.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("barButtonItem2.ImageOptions.Image")));
             this.barButtonItem2.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem2.ImageOptions.LargeImage")));
             this.barButtonItem2.Name = "barButtonItem2";
+<<<<<<< Updated upstream
             this.barButtonItem2.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem2_ItemClick_1);
+=======
+>>>>>>> Stashed changes
             // 
             // barButtonItem3
             // 
@@ -121,15 +128,26 @@
             this.barButtonItem3.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("barButtonItem3.ImageOptions.Image")));
             this.barButtonItem3.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem3.ImageOptions.LargeImage")));
             this.barButtonItem3.Name = "barButtonItem3";
+<<<<<<< Updated upstream
             // 
             // barButtonItem5
             // 
             this.barButtonItem5.Caption = "Quản lý tài khoản";
+=======
+            this.barButtonItem3.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem3_ItemClick);
+            // 
+            // barButtonItem5
+            // 
+            this.barButtonItem5.Caption = "Danh sách nhân viên";
+>>>>>>> Stashed changes
             this.barButtonItem5.Id = 8;
             this.barButtonItem5.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("barButtonItem5.ImageOptions.Image")));
             this.barButtonItem5.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem5.ImageOptions.LargeImage")));
             this.barButtonItem5.Name = "barButtonItem5";
+<<<<<<< Updated upstream
             this.barButtonItem5.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem5_ItemClick);
+=======
+>>>>>>> Stashed changes
             // 
             // iêu
             // 
